@@ -110,6 +110,8 @@ html, body {
     width: 190px;
     margin: 30px;
     border-radius: 50%;
+    border: solid;
+    border-color: firebrick;
 }
 
 .res-element {
