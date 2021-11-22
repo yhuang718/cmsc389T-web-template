@@ -7,3 +7,5 @@ Custom changes made:
 - Changed the margin of the paragraph
 - Add a border around profile picture
 - Changed the color of the border
+
+https://www.terpconnect.umd.edu/~yhuang10/cmsc389T-web-template/
